@@ -5,9 +5,9 @@ N:Ana Caroline;Cascardo;;;
 FN: Cascardo  Caroline 
 ORG:GH Wesco;
 TITLE:Analista de Suporte, Comercial
-EMAIL;type=INTERNET;type=WORK;type=pref:darlan.mendes@ghwesco.com.br
+EMAIL;type=INTERNET;type=WORK;type=pref:anacaroline.silva@ghwesco.com.br
 TEL;type=WORK;type=VOICE:021 97911 2660
-item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;138577;Rio de Janeiro
+item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;;Rio de Janeiro
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
